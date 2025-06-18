@@ -202,7 +202,7 @@ def crude_rates(list_tables):
             Abs = table.index[table.index.str.contains('Abstin', case=False)][0]
             Tot = table.index[table.index.str.contains('Total', case=False)][0]
         except IndexError:
-            print(f"⚠️ Missing required row (Male/Abstinence/Total) in: {string}")
+            print(f" Missing required row (Male/Abstinence/Total) in: {string}")
             redo[i] = string
             continue
 
@@ -223,7 +223,7 @@ def crude_rates(list_tables):
             abst_value = get_int_value(Abs)
             total_value = get_int_value(Tot)
         except Exception as e:
-            print(f"⚠️ Value conversion failed in {string}: {e}")
+            print(f" Value conversion failed in {string}: {e}")
             redo[i] = string
             continue
 
@@ -239,7 +239,7 @@ def crude_rates(list_tables):
         }
 
         rates[updated_name] = result
-        print(f"✅ {updated_name}: {result}")
+        print(f" {updated_name}: {result}")
 
     return rates
 
