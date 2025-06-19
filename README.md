@@ -1,5 +1,7 @@
 # A Look Behind Closed Doors...
-<div class="flourish-embed flourish-chart" data-src="visualisation/23835693"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23835693/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/23835693" data-width="120%"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23835693/thumbnail" width="120%" alt="chart visualization" /></noscript></div>
+
 <br><br>
 Public Health really has a way of making us-well, the U.S.- look bad. Ever since January 1, 2014, the advent of the Affordable Care Act, sexually trasmitted infections have been on the rise. At first thought, it's quite terrible. 
 But on second thought, it becomes clear that more access means a greater amount of illness being reported to entities such as the Center for Disease Control (CDC). Of course, whether good or bad, there must be more to the story. In order to investigate, using machine
