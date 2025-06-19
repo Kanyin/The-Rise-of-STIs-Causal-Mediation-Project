@@ -7,7 +7,7 @@
 
 Public Health really has a way of making us-well, the U.S.- look bad. Ever since January 1, 2014, the advent of the Affordable Care Act, sexually trasmitted infections have been on the rise. At first thought, it's quite terrible. 
 But on second thought, it becomes clear that more access means a greater amount of illness being reported to entities such as the Center for Disease Control (CDC). Of course, whether good or bad, there must be more to the story. In order to investigate, using machine
-learning, webscraping, PDF scraping, and a statistical mediation model, I wanted to illustrate if the passing of the affordable care act was mediated by any other factors, such as general condom use. Every year since 2003, the Office of Population
+learning, webscraping, PDF scraping, and a statistical causal inference mediation model, I wanted to illustrate if the passing of the affordable care act was mediated by any other factors, such as general condom use. Every year since 2003, the Office of Population
 Affairs has taken surveys to assess people's "family planning", a.k.a contraception methods around sexual intimacy.
 
 <br>
